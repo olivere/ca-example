@@ -1,0 +1,16 @@
+{
+  "CN": "apiserver.go",
+  "hosts": [
+    "*"
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [{
+    "C": "DE",
+    "L": "Munich",
+    "O": "Alt F4",
+    "OU": "API Server"
+  }]
+}

@@ -1,0 +1,16 @@
+{
+    "CN": "admin@alt-f4.de",
+    "hosts": [
+        ""
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [{
+        "C": "DE",
+        "L": "Munich",
+        "O": "Alt F4",
+        "OU": "admin@alt-f4.de"
+    }]
+}

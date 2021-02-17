@@ -1,0 +1,6 @@
+*.pem
+*.csr
+*.key
+
+/cli
+/srv
